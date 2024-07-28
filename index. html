@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Tevin Audy Jordan - Digital Designer & Dot-com Developer</title>
+  </head>
+  <body>
+    <nav>
+      <div class="toggle-switch" onclick="toggleDarkMode()">🌓</div>
+      <div>
+        <a href="#hero">Home</a>
+        <a href="#about">About</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+    <div class="content">
+      <section id="hero" class="section hero">
+        <h2>Tevin Audy Jordan</h2>
+        <h3>Digital Designer & Dot-com Developer</h3>
+      </section>
+      <section id="about" class="section centered">
+        <h2>About Me</h2>
+        <p>
+          My name is Tevin Audy Jordan, and I am a passionate and skilled web
+          developer and UI/UX designer. My expertise encompasses a wide range of
+          digital projects, from crafting captivating landing pages to building
+          comprehensive online stores. Proficient in Wix/Wix Studio and
+          WordPress, I have acquired certifications from IBM, including Intro to
+          DevOps and Intro to Cloud Computing, which have honed my technical
+          abilities.
+        </p>
+        <p>
+          Beyond my professional endeavors, I am also deeply involved in
